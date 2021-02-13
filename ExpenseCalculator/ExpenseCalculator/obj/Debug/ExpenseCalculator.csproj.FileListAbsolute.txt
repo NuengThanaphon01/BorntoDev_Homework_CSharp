@@ -1,0 +1,15 @@
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe.config
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.pdb
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.csprojAssemblyReference.cache
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\App.g.cs
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator_MarkupCompile.cache
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator_MarkupCompile.lref
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\MainWindow.baml
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.g.resources
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.Properties.Resources.resources
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.csproj.GenerateResource.cache
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.exe
+C:\Users\heart\Documents\GitHub\BorntoDev_Homework_CSharp\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.pdb
